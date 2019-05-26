@@ -21,6 +21,8 @@ public class GitNetTest2 {
         //david
         //santi here on line 22
         //comment nuevo
+        //comment desde netbeans a gitbub
+        
     }
     
 }
